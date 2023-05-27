@@ -1,10 +1,9 @@
 ### Hola! 👋
-Empezando en este mundo...</p>
-Soy autodidacta y por ahora aprendo de la mano de Microsoft Learn, Platzi, Oracle, MiriadaX, EdEx, Coursera e INTECAP.
-Busco cambiar de actividad ya que por años he trabajado soporte de TI, pero pienso introducirme en este basto mundo del desarrollo.
+Soy autodidacta y estoy aprendiendo de la mano de Microsoft Learn, Platzi, Oracle ONE, Alura Latam, MiriadaX, EdEx, Coursera e INTECAP.
+Busco cambiar de actividad profesional, después de que por años he trabajado soporte de TI, ahora me he introducido en el basto mundo del desarrollo.
 Me gustaría colaborar con algunos proyectos; la idea es inicialmente familizarme con esta plataforma, conocer sus opciones y alcances, luego aportar en algún proyecto y seguir aprendiendo.
-Ya pasé por fundamentos de programación, HTML5 y CSS; ahora estoy aprendiendo Git y Github. Mi siguiente paso será aprender JavaScript y luego tomar alguna de las rutas front-end o back-end para seguirme preparando. Considero seriamente back-end, donde además de JavaScript, me inquietan los lenguajes Java y Python. Manejo el idioma inglés a nivel B1.</p>
-También me llama mucho la atención la ciencia de datos.</p> 
+Ya pasé por fundamentos de programación, HTML5 y CSS; ahora estoy aprendiendo Git y Github y JavaScript, para luego tomar alguna de las rutas front-end o back-end y seguirme preparando. Considero seriamente back-end, donde además de JavaScript, me inquietan los lenguajes Java y Python. Manejo el idioma inglés a nivel B2.</p>
+También me llama mucho la atención ciencia de datos.</p> 
 ✨Gracias por sus aportes y pues nada, allá vamos!!!
 <!--
 **grisherm/grisherm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
