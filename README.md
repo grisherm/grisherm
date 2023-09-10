@@ -1,10 +1,9 @@
-### Hola! 👋
-Soy autodidacta y estoy aprendiendo de la mano de Microsoft Learn, Platzi, Oracle ONE, Alura Latam, MiriadaX, EdEx, Coursera e INTECAP.
-Busco cambiar de actividad profesional, después de que por años he trabajado soporte de TI, ahora me he introducido en el basto mundo del desarrollo.
-Me gustaría colaborar con algunos proyectos; la idea es inicialmente aprender y luego aportar en algún proyecto y seguir mi crecimiento.
-Ya pasé por fundamentos de programación, HTML5 y CSS3; ahora estoy aprendiendo Git y Github y JavaScript, para luego tomar alguna de las rutas front-end o back-end y seguirme preparando. Considero seriamente back-end, donde además de JavaScript, me inquietan los lenguajes Java y Python. Manejo el idioma inglés a nivel B2.</p>
-También me llama mucho la atención ciencia de datos.</p> 
-✨Gracias por sus aportes y pues nada, allá vamos!!!
+### Saludos amigos! 👋
+Les cuento un poquito de mi... de manera autodidacta he aprendido de la mano de Microsoft Learn, Platzi, MiriadaX, EdEx, Coursera e INTECAP, me gusta aprender un poco de todo, pero particularmente sobre tecnología, informática y ciencas de computación.
+Recientemente tuve la oportunidad de formarme en el programa ONE de Oracle, en la plataforma de Alura Latam y por fin puedo decir que soy Desarrollador Backend Java.💪 Aprendí mucho en el proceso, desde HTML5 y CSS3, pasando por JavaScripit, Java, Spring Boot, hasta lenguaje de base de datos con MySQL. Estoy sumamente agradecido por la oportunidad ya que dió lugar a que hoy esté aquí poniendo en práctica algo de lo mucho que aprendí. 🔭 Estoy buscando una oportunidad de empleo en el sector.
+Inicialmente verán los proyectos que desarrollé dentro de la formación y posterior a estos, algunos retos que desarrollé para mantenerme vigente y en constantes aprendizaje, a estas alturas ya he explorado con tecnologías JavaScript y Phyton lo que se facilitó mucho, gracias a la base sólida de conocimientos adquiridos en mi formación.</p> 
+Me gusta la gestión de proyectos y también he explorado algo al respecto. Manejo el idioma inglés a nivel B1.🇺🇸 </p>
+✨Estaré muy agradecido con sus aportes y pues nada, seguimos en la ruta. Reza un dicho popular, "Esto no acaba hasta que termina"!!!
 <!--
 **grisherm/grisherm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
