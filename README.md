@@ -1,9 +1,10 @@
 ### Saludos amigos! 👋
-Les cuento un poquito de mi... de manera autodidacta he aprendido de la mano de Microsoft Learn, Platzi, MiriadaX, EdEx, Coursera e INTECAP, me gusta aprender un poco de todo, pero particularmente sobre tecnología, informática y ciencas de computación.
-Recientemente tuve la oportunidad de formarme en el programa ONE de Oracle, en la plataforma de Alura Latam y por fin puedo decir que soy Desarrollador Backend Java.💪 Aprendí mucho en el proceso, desde HTML5 y CSS3, pasando por JavaScripit, Java, Spring Boot, hasta lenguaje de base de datos con MySQL. Estoy sumamente agradecido por la oportunidad ya que dió lugar a que hoy esté aquí poniendo en práctica algo de lo mucho que aprendí. 🔭 Estoy buscando una oportunidad de empleo en el sector.
-Inicialmente verán los proyectos que desarrollé dentro de la formación y posterior a estos, algunos retos que desarrollé para mantenerme vigente y en constantes aprendizaje, a estas alturas ya he explorado con tecnologías JavaScript y Phyton lo que se facilitó mucho, gracias a la base sólida de conocimientos adquiridos en mi formación.</p> 
-Me gusta la gestión de proyectos y también he explorado algo al respecto. Manejo el idioma inglés a nivel B1.🇺🇸 </p>
-✨Estaré muy agradecido con sus aportes y pues nada, seguimos en la ruta. Reza un dicho popular, "Esto no acaba hasta que termina"!!!
+😄 Me gusta y me motiva aprender y para ello he aprovechado las plataformas de Alura, Platzi, Coursera e INTECAP. Exploro un poco de todo, pero particularmente me apasionan los temas de tecnología, informática y ciencas de computación.
+Me formé en el programa ONE de Oracle como Java Backend Developer. 💪 Aprendí mucho en el proceso, desde HTML5 y CSS3, pasando por JavaScripit, Java, Spring Boot, hasta lenguaje de base de datos con MySQL. Estoy sumamente agradecido ya que esto dió lugar a que hoy esté aquí poniendo en práctica lo que aprendí.
+🔭 Buscó una oportunidad de empleo en el sector de desarrollo de software.</p>
+🌱 Sigo aprendiendo y ahora hago uso del pair programming con IA's para mejorar mi código y también manejo el idioma inglés 🇺🇸 a nivel B1; además, estoy aprendiendo portugués 🇧🇷 e hindi. 🇮🇳</p>
+⚡ Por aquí verán inicialmente, los proyectos que desarrollé dentro de la formación en ONE. Ya luego verán los retos que desarrollé para mantenerme vigente y en constante aprendizaje. Ahora conozco también de JavaScript y Phyton.</p> 
+✨Estaré muy agradecido con sus aportes y pues nada, seguimos en la ruta, "Esto no acaba hasta que termina"!!!
 <!--
 **grisherm/grisherm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
